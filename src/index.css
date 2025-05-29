@@ -2,11 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    color : #fff ; 
-    /* background: linear-gradient(to left ,#051d41, #2f1c1c
-    ); */
-    background: linear-gradient(to right, #4ADE80, #38BDF8);
-
-    box-sizing: border-box;
-}
